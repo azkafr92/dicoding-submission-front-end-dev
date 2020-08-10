@@ -8,7 +8,7 @@ class ContactCard extends HTMLElement {
     render() {
         this.innerHTML = `
             <div class="profile">
-                <img src="src/assets/profile-pic.jpg" alt="profile-pic">
+                <img src="http://1.gravatar.com/avatar/19cdf69dff222130fb875edab51f7c7c" alt="profile-pic">
                 <ul>
                     <li>Azka Fadhli Ramadhan</li>
                     <li>+62 852 1370 6956</li>

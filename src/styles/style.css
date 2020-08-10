@@ -173,6 +173,7 @@ div.profile>img {
 #openMenu,
 #closeMenu {
     cursor: pointer;
+    color: white;
 }
 
 @media screen and (min-width:596px) {
